@@ -1,2 +1,2 @@
 # Intent-Dialer
-Using Implicit Intent
+Using Implicit Intent to access dialer
